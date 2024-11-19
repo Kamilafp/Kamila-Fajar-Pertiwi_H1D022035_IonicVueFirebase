@@ -1,0 +1,7 @@
+{
+  "name": "kamila",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
