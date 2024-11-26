@@ -70,6 +70,11 @@ Fungsi ini digunakan untuk mengedit todo yang ada. Todo yang akan diedit diambil
 ![image](https://github.com/user-attachments/assets/3dd9d605-417e-4985-a463-fc92850eae5f)
 Fungsi updateTodo bertanggung jawab untuk memperbarui (mengubah) data todo yang sudah ada di Firestore
 
+![image](https://github.com/user-attachments/assets/35e75472-8dc1-49cf-94e4-9a1db283bffe)
+Sintaks diatas bertanggung jawab untuk aksi di klik dan swipe ke kiri, maka akan memanggil handleEdit, lalu di klik maka akan ditampilkan halaman pengeditan data
+
+![image](https://github.com/user-attachments/assets/eb0021a6-f75b-4385-b235-fcab9dc79360)
+
 
 Delete
 Bagian delete data di handle dengan sintaks berikut
@@ -81,3 +86,9 @@ Fungsi deleteTodo bertanggung jawab untuk menghapus data todo yang sudah ada dar
 
 ![image](https://github.com/user-attachments/assets/f38c1b7b-a475-436a-881c-d1e0071f5993)
 Sintaks diatas bertanggung jawab untuk aksi di klik dan di swipe kearah kanan, maka akan memanggil handleDelete untuk melakukan penghapusan
+
+Bisa di klik manual
+![image](https://github.com/user-attachments/assets/6bebe7c9-4d23-47de-a807-a72061540621)
+
+Bisa juga di swipe sampai maksimal
+![image](https://github.com/user-attachments/assets/2378e4aa-b877-4ea7-90a5-05a2b4d02a37)
